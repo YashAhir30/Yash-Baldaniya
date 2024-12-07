@@ -11,7 +11,12 @@ body {
   background-color: #ffffff;
   color: #000000;
 }
-
+.josefin-sans{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  color:cadetblue;
+  font-style: normal;
+}
 /* Dark mode styles */
 body.dark-mode {
   background-color: #111111;
